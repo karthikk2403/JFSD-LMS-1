@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"components\\\\FormModal.tsx -> ./forms/StudentForm":{"id":82047,"files":["static/chunks/374.462bc66901ad2842.js","static/chunks/405.05d94eb446887fad.js"]},"components\\\\FormModal.tsx -> ./forms/TeacherForm":{"id":74762,"files":["static/chunks/374.462bc66901ad2842.js","static/chunks/762.6eb2d857c26ca71e.js"]}}';
